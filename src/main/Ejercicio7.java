@@ -29,8 +29,8 @@ public class Ejercicio7 {
         asteriscos(maxdistancia);
     }
     public static void main(String[] args) {
-        String[] cadenas = {"Hola", "esto", "es", "un", "marco"};
+        String[]  lista = {"Hola", "esto", "es", "un", "marco"};
 
-        imprimirConMarco(cadenas);
+        imprimirConMarco(lista);
     }
 }
