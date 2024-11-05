@@ -27,4 +27,5 @@ public class Ejercicio9 {
         System.out.println("Cantidad de números pares: " + contarPares(numeros));
         System.out.println("Cantidad de números impares: " + contarImpares(numeros));
     }
+
 }

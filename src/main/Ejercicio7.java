@@ -32,5 +32,6 @@ public class Ejercicio7 {
         String[]  lista = {"Hola", "esto", "es", "un", "marco"};
 
         imprimirConMarco(lista);
+
     }
 }

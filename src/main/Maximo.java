@@ -16,5 +16,6 @@ public class Maximo {
 
 
         System.out.println("El num max es : " + encontrarMax(numeros));
+
     }
 }

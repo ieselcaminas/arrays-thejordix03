@@ -15,5 +15,6 @@ public class Minimo {
         int[] numeros = {3,2,2,4,5,6,7,8,9,10};
 
         System.out.println("El num minimo es : " + encontrarMinimo(numeros));
+
     }
 }

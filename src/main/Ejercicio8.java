@@ -24,5 +24,6 @@ public class Ejercicio8 {
 
         System.out.println("LA SUMA DE VALORES POSITIVOS: " + sumavalores(numerosp));
         System.out.println("LA SUMA DE VALORES NEGATIVOS: " + restavalores(numerosp));
+
     }
 }
